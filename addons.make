@@ -1,0 +1,7 @@
+ofxOpenCv
+ofxOsc
+ofxBox2d
+ofxCv
+ofxDelaunay
+ofxDither
+ofxFaceTracker
